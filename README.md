@@ -1,4 +1,4 @@
-# React Product Dashboard - Assignment 1
+# React Product Dashboard - Assignment 5
 
 Bu proje, temel React kavramlarını (state, props, conditional rendering ve component composition) uygulamak amacıyla geliştirilmiştir.
 
